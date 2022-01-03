@@ -5,6 +5,7 @@
 ## Objective: 
 
 * To extract the information about the books of different genres. 
+* We are working with 6000+ books data which was scraped from goodreads(File attached).
 * Process the information about books to extract features. 
 * Use these features to recommend the genes accordingly to the input text.
 * Then recommend books based on the genre predicted.
