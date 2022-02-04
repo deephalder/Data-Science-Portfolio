@@ -17,7 +17,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 - [About](#About)
 - 
-- [Data Science projects ](#Data_Science_Projects)
+- [Data Science projects ](#Data_Science.Projects)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
     - [Cookiecutter template](#cookiecutter-template)
@@ -31,7 +31,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 ## About
 
-## Data_Science_Projects.
+## Data_Science.Projects.
 
 ## Kaggle competitions.
 
