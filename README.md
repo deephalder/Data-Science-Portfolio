@@ -31,7 +31,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 ## About
 
-## Data Science projects.
+## DataScienceProjects.
 
 ## Kaggle competitions.
 
