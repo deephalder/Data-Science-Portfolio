@@ -15,7 +15,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 ### Table of Contents
 
-- [About](#about)
+- [About](#About)
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -29,7 +29,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
-##About
+## About
 
 ## Data Science projects.
 
