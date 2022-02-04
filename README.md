@@ -16,14 +16,14 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 ### Table of Contents
 
 - [About](#About)
-  - [Built With](#built-with)
-- [Getting Started](#getting-started)
+- 
+- [Data Science projects ](#DataScienceProjects)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
     - [Cookiecutter template](#cookiecutter-template)
     - [Manual setup](#manual-setup)
     - [Variables reference](#variables-reference)
-- [Roadmap](#roadmap)
+- [Kaggle Competitions](#Kaggle competitions)
 - [Contributing](#contributing)
 - [Support](#support)
 - [License](#license)
