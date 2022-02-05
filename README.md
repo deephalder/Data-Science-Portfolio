@@ -1,51 +1,56 @@
 
-# Data science portfolio by Subhradip Halder
+### Hello There!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
-This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
+## About_Me
+
+ Hi I am Subhradip Halder. You can call me Halder or just Deep.  Thanks for visiting my page. 
+
+NOW
+
+    🔭 I’m currently working as a Data Science/ Data Analysis freelancer.
+    🏢 I'm currently staying in Kolkata,India.
+    ⚡️ I am the father  of  www.zealousi.com - POD Ecommerce store.
 
 
-## 🔗 Links
-[![Data Science/Analytics portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://deephalder.github.io/)
+BIO
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deephalder/)
+    
+    ⚙️ I use daily: python,SQL,Power BI/Tableau,ML Algos.
+    🌍 I'm mostly active within the Data Science, NFT and Crypto Community
+    💅 Designed and Devloped-  www.zealousi.com - POD ( Print on Demand Ecommerce store in India.)
+    🌱 Currently Learning - GCP(Google Cloud) ML.
+    💬 Ping me about Data Science, Data Analytics, Machine Learning NFT, Creative Design.
+    📫 Email Me - subhradipmsm@gmail.com
+    ⚡️ Fun fact: I'm a huge fan of Elon Musk,generative computer art.
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Halder_Subh)
+PAST
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deephalder&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    📫 Fintech Salesforce Consultant - Deloitte Consulting USA with 9 years of exp.
+    
+ 
+ ###  📫 How to reach me : 
+ 
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-### Table of Contents
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Me on LinkedIn" title="Follow Halder on LinkedIn"/>](https://www.linkedin.com/in/deephalder/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Me on Twitter" title="Follow Halder on Twitter"/>](https://www.twitter.com/Halder_Subh)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Halder on Instagram"/>](https://www.instagram.com/walkwithhal/)
 
-- [About](#About)
-- 
-- [Data Science projects ](#Data_Science.Projects)
-  - [Prerequisites](#prerequisites)
-  - [Usage](#usage)
-    - [Cookiecutter template](#cookiecutter-template)
-    - [Manual setup](#manual-setup)
-    - [Variables reference](#variables-reference)
-- [Kaggle Competitions](#Kaggle competitions)
-- [Contributing](#contributing)
-- [Support](#support)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+# Portfolio -  Subhradip Halder
 
-## About
+This portfolio is a compilation of  all my work  which includes Data Science projects, Data Analysis projects, Data Visualization, NLP projects and much more. 
 
-## Data_Science.Projects.
+## Data_Science_Projects
 
-## Kaggle competitions.
+## Kaggle_competitions
 
-## Classification problems.
+## Classification_problems
 
-## Natural language processing.
+## Natural_language_processing
 
-## Clustering.
+## Big_data_projects
 
-## Data Analysis.
-
-## Big data projects.
-
-## Recommendation systems.
+## Recommendation_systems
 
 ### Similar Movie Recommendation System.
 
@@ -54,14 +59,25 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 [Live app URL link ](https://similar-movies.herokuapp.com)
 
 Recommenders are systems, which predict ratings of users for items. There are several approaches to build such systems and one of them is Collaborative Filtering. 
+
 This notebook and app, shows a recommendation system where the user selects a movie from the list of top 5000 movies and it gives you the top 5 most similar movies along with their images.
 
-This notebook is also deployed in Heroko , so you can use the app using this URL : https://similar-movies.herokuapp.com
+This notebook is also deployed in Heroku , so you can use the app using this URL : https://similar-movies.herokuapp.com
 
-## SQL projects.
+### Book Genre Predition and recommendations.
 
-## Data Visualization
+This a machine learning project where the user enters a summary or description and the app directly predicts a genre fit for the summary, and then finds similar books based on the summary's closest cosine similarity score.
+The data for books were first scraped from goodreads and then the model was trained to predict the summary.
 
-### Microsoft Power Bi.
 
-### Tableau.
+## Data_Analysis
+
+## SQL_projects
+
+## Data_Visualization
+
+### Microsoft_Power_Bi
+
+### Tableau
+
+## Cloud_Projects
