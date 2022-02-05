@@ -52,7 +52,7 @@ This portfolio is a compilation of  all my work  which includes Data Science pro
 
 ## Recommendation_systems
 
-### Similar Movie Recommendation System.
+#### Similar Movie Recommendation System.
 
 [Github](https://github.com/deephalder/Personal-Code/blob/main/Kaggle/Movie_recommended_system/movie-recommendation-system-content-based-easy.ipynb) 
 
@@ -64,7 +64,7 @@ This notebook and app, shows a recommendation system where the user selects a mo
 
 This notebook is also deployed in Heroku , so you can use the app using this URL : https://similar-movies.herokuapp.com
 
-### Book Genre Predition and recommendations.
+#### Book Genre Predition and recommendations.
 
 This a machine learning project where the user enters a summary or description and the app directly predicts a genre fit for the summary, and then finds similar books based on the summary's closest cosine similarity score.
 The data for books were first scraped from goodreads and then the model was trained to predict the summary.
